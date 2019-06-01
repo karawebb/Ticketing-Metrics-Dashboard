@@ -31,3 +31,7 @@
     transform: rotate(360deg);
   }
 }
+
+.container .row div {
+  outline: solid 1px black;
+}
